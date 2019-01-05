@@ -1,6 +1,6 @@
 html, body
 {
-	width: 80vh;
+	width: 50vw;
 	margin: 0 auto;
 	background-color: wheat;
 	background-image: url("../background_01.png");
@@ -14,7 +14,7 @@ html, body
 {
 	display: flex;
 	flex-direction: column;
-	height: calc(100vh - 3em);
+	min-height: calc(100vh - 3em);
 	padding: 1.5em;
 	background-color: rgb(0, 0, 0, 0.8);
 }
