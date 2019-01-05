@@ -1,0 +1,4 @@
+baseURL = "https://petethegoat.github.io/MMC-LandingPage"
+languageCode = "en-us"
+title = "Morrowind Modding Community"
+publishDir = "docs"
