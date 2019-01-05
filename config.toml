@@ -1,5 +1,9 @@
-baseURL = "https://petethegoat.github.io/MMC-LandingPage"
+baseURL = "//petethegoat.github.io/MMC-LandingPage"
 languageCode = "en-us"
-title = "Morrowind Modding Community"
 publishDir = "docs"
-theme = "hugo-split-theme"
+theme = "resdayn"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+[params]
+	title = "Morrowind Modding Community"
+	favicon = "favicon.ico"

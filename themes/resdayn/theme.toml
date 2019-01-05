@@ -1,0 +1,10 @@
+name = "Resdayn"
+license = "MIT"
+description = ""
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Pete Goodfellow"
+  homepage = "https://github.com/Petethegoat"
