@@ -5,5 +5,5 @@ theme = "resdayn"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 [params]
-	title = "Morrowind Modding Community"
+	title = "Morrowind Modding Community Discord"
 	favicon = "favicon.ico"
