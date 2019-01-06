@@ -26,6 +26,13 @@ html, body
 	}
 }
 
+@media (min-resolution: 160dpi)
+{
+	body
+	{
+		font-size: 2em;
+	}
+}
 
 #column
 {
